@@ -2,7 +2,6 @@ import Login from './pages/login/Login'
 import Register from './pages/register/Register'
 import React, { useContext } from 'react'
 import { AuthContext } from "./context/authContext";
-import Header from './components/header/Header'
 import Home from './pages/home/Home'
 import Write from './pages/write/Write'
 import Topbar from './components/topbar/Topbar'
